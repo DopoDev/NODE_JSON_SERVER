@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Johao",
+      "apellido": "Ramirez",
+      "materias": [
+        {
+          "materia": "NodeJS desde cero"
+        },
+        {
+          "materia": "ReactJS desde cero"
+        },
+        {
+          "materia": "JavaScript desde cero"
+        }
+      ],
+      "id": "bd73"
+    },
+    {
+      "id": "42b2",
+      "nombre": "Joseph Tomas",
+      "apellido": "Ramirez Palomino",
+      "materias": [
+        {
+          "materia": "Dibujo Técnico"
+        },
+        {
+          "materia": "Técnico en Dofus"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 9.5,
+      "id": "bde1"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Perez",
+      "promedio": 3.5,
+      "id": "607d"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "6fcf"
+    },
+    {
+      "nombre": "React desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "a02d"
+    },
+    {
+      "nombre": "AngulaJS desde cero",
+      "duracion": 9,
+      "dificultad": "alta",
+      "id": "87a9"
+    }
+  ]
+}
